@@ -1,0 +1,33 @@
+
+option1: old SRIde === 50/ride
+---------------------------------------
+22 days - 100*22
+++ aditional 9*60 = 540 ==> for not getting end to end ride
+================= 2200==> 2200/month + 540 ==> 2740/month
+
+option2: New SRide ==== 74/ride
+---------------------------------------
+22 days - 148*22
+++ aditional 9*60 = 540 ==> for not getting end to end ride
+================= 3256 ==> 3260/month + 540 ==> 3800/month
+
+option3: train pass:
+---------------------
+264/month
+auto 80*22 = 1760
+264+1760 = 
+=================== 2024 ==> 2030/month
+
+option4: Train pass:
+----------------------
+732/quarter
+auto 80*66 = 5280
+5280+732 = 
+================= 6012 ==> 6020/quarter ==> 2010/month
+
+option5: Office Bus:
+----------------------
+1100/month
+auto 22*60 = 1320
+1100 + 1320 =  2420
+================= 2420==> 2420/month
